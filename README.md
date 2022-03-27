@@ -48,7 +48,7 @@ Click The Below Button To Visit My Site.
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Shewon/BLACKPANDA-QR?v=1)
 
 ### <b>DEPLOY TO HEROKU</b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botkolla1/BlackPanda)
 </div>
   
 ----
